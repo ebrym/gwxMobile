@@ -17,7 +17,6 @@ package barcodereader;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
-import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;
@@ -40,7 +39,7 @@ import android.view.ScaleGestureDetector;
 import android.view.View;
 import android.view.Window;
 import android.widget.Toast;
-import com.courierplus.mobile.R;
+import com.gwx.mobile.R;
 
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;

@@ -11,7 +11,7 @@ import android.graphics.Rect;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.courierplus.mobile.R;
+import com.gwx.mobile.R;
 
 public class ViewFinderView extends View implements IViewFinder {
     private static final String TAG = "ViewFinderView";

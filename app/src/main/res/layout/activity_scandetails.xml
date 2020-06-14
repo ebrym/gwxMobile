@@ -40,28 +40,28 @@
             android:layout_gravity="bottom"/>
         </LinearLayout>
 
-    <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
-        android:layout_width="wrap_content"
+    <GridLayout
+        android:layout_width="match_parent"
         android:layout_height="50dp"
         android:columnCount="2"
-        android:rowCount="1"
-        android:padding="10dp"
         android:orientation="horizontal"
+        android:padding="10dp"
+        android:rowCount="1"
         tools:context=".GridLayoutActivity">
 
-    <TextView
-        android:layout_width="150dp"
-        android:layout_height="20dp"
-        android:text="Scan Count : "
-        android:textStyle="bold"
-        android:textColor="@color/colorPrimary"/>
-    <TextView
-        android:layout_width="150dp"
-        android:layout_height="30dp"
-        android:id="@+id/lblScanCount"
-        android:textStyle="bold"
-        android:textColor="@color/colorPrimary"/>
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="20dp"
+            android:text="Scan Count : "
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/lblScanCount"
+            android:layout_width="150dp"
+            android:layout_height="30dp"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold" />
     </GridLayout>
     <ScrollView
         android:layout_width="match_parent"

@@ -14,7 +14,7 @@ import java.io.OutputStream;
 
 public class Connection extends SQLiteOpenHelper {
 	
-	//private static String DB_PATH = "/data/data/com.courierplus.mobile/databases/";
+	//private static String DB_PATH = "/data/data/com.gwx.mobile/databases/";
 	private static String DB_PATH = "";
     private static String DB_NAME = "courierplusMobile";
     private SQLiteDatabase myDataBase;

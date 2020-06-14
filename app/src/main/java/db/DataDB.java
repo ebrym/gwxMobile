@@ -9,8 +9,8 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.util.Log;
 
-import com.courierplus.mobile.Global;
-import com.courierplus.mobile.dataList;
+import com.gwx.mobile.Global;
+import com.gwx.mobile.dataList;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

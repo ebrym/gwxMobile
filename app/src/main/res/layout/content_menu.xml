@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.courierplus.mobile.MenuActivity"
+    tools:context="com.gwx.mobile.MenuActivity"
     tools:showIn="@layout/activity_menu">
 
     <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"

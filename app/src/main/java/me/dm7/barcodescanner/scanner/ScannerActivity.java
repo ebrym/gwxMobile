@@ -10,10 +10,6 @@ import android.support.v4.app.ActivityCompat;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.courierplus.mobile.Global;
-import com.courierplus.mobile.LoginActivity;
-import com.google.android.gms.common.api.CommonStatusCodes;
-
 import java.util.ArrayList;
 import java.util.List;
 

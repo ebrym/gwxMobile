@@ -29,7 +29,7 @@ import android.widget.Toast;
 
 import com.google.android.gms.common.api.CommonStatusCodes;
 import com.google.android.gms.vision.barcode.Barcode;
-import com.courierplus.mobile.R;
+import com.gwx.mobile.R;
 
 /**
  * Main activity demonstrating how to pass extra parameters to an activity that

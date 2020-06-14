@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/orderListLayout"
-    tools:context="com.courierplus.mobile.DataListActivity"
+    tools:context="com.gwx.mobile.DataListActivity"
     android:orientation="vertical">
 
     <LinearLayout

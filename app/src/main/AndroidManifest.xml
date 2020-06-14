@@ -28,7 +28,7 @@
    <application
        xmlns:tools="http://schemas.android.com/tools"
        android:allowBackup="true"
-       android:icon="@drawable/defaultlogo1"
+       android:icon="@drawable/defaultlogo"
        android:label="@string/app_name"
        android:supportsRtl="true"
        android:theme="@style/AppTheme"
